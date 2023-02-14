@@ -1,4 +1,4 @@
-# Algorithmic Resources
+# Algorithmic Resources-1
 
 A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
 
